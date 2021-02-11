@@ -1,6 +1,10 @@
 # Bloggers-Database-API-Practical-5
 This is the API for the practical-5 given for Full Stack-2. You can use it after clone the repository into your local system.
+
+
 You can use this API by cloning this repository in your local system.
+
+
 Prerequisites:
 1.Node.js should be installed.
 2.MongoDB should be installed.
