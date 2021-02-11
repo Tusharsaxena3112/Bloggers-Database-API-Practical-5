@@ -7,7 +7,7 @@ router.get("/blogs", (req, res, next) => {
     .exec()
     .then((result) => {
       res.status(200).json({
-        message: "In /blogs get route",
+        message: "Here are all the blogs",
         result:result
       });
     }).catch(err=>{
