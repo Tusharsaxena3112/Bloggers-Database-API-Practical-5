@@ -9,7 +9,9 @@ Prerequisites:
 
 1.Node.js should be installed.
 
+
 2.MongoDB should be installed.
+
 
 3.You can use a tool "Postman" for sending requests to the API and managing Database.
 
@@ -29,31 +31,31 @@ It requires a json body for example:
 {
 
 
-"author":"Tushar",
+ "author":"Tushar",
 
 
-"age":20,
+ "age":20,
 
 
-content:"Blog-Content",
+ "content":"Blog-Content",
 
 
-rating:5,
+ "rating":5,
 
 
-published:true,
+ "published":true,
 
 
-blog_tags:{
+ blog_tags:{
 
 
-"1":"html",
+  "1":"html",
 
 
-"2":"CSS",
+  "2":"CSS",
  
  
- "3":"Javascript"
+   "3":"Javascript"
  
  
  }
@@ -71,10 +73,10 @@ It requires a json body for example:
 {
 
 
-"author":"Tushar",
+  "author":"Tushar",
 
 
-"new":"New Updated Content"
+  "new":"New Updated Content"
 
 
 }
